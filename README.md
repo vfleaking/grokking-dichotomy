@@ -1,6 +1,6 @@
 # Code for "Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking"
 
-Paper Link: TBA
+Paper Link: https://arxiv.org/abs/2311.18817
 
 Code:
 * `train_mod_add.py`: Train a two-layer ReLU net on modular addition
